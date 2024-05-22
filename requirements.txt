@@ -1,0 +1,112 @@
+#박지예 (5월 23일 오전 2:29)
+
+absl-py==2.1.0
+astunparse==1.6.3
+backports.tarfile==1.1.1
+blinker==1.8.2
+Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
+build==1.2.1
+certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama==0.4.6
+contourpy==1.2.1
+cycler==0.12.1
+docutils==0.21.2
+easydict==1.13
+faiss==1.7.4
+filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
+Flask==2.3.2
+flatbuffers==24.3.25
+fonttools==4.51.0
+fsspec==2024.5.0
+gast==0.5.4
+gmpy2 @ file:///C:/ci/gmpy2_1645438895476/work
+google-pasta==0.2.0
+grpcio==1.64.0
+h5py==3.11.0
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+importlib_metadata==7.1.0
+intel-openmp==2021.4.0
+itsdangerous==2.2.0
+jaraco.classes==3.4.0
+jaraco.context==5.3.0
+jaraco.functools==4.0.1
+Jinja2 @ file:///C:/b/abs_f7x5a8op2h/croot/jinja2_1706733672594/work
+joblib @ file:///C:/b/abs_4b02c83r3b/croot/joblib_1713976789617/work
+keras==3.3.3
+keyring==25.2.1
+kiwisolver==1.4.5
+libclang==18.1.1
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
+matplotlib==3.9.0
+mdurl==0.1.2
+mkl==2021.4.0
+ml-dtypes==0.3.2
+more-itertools==10.2.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+munkres==1.1.4
+namex==0.0.8
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+nh3==0.2.17
+numpy==1.26.4
+opencv-python==4.7.0.72
+openvino @ file:///D:/bld/openvino-split_1715772396915/work/src/bindings/python/wheel
+openvino-telemetry @ file:///home/conda/feedstock_root/build_artifacts/openvino-telemetry_1712595313403/work
+opt-einsum==3.3.0
+optree==0.11.0
+packaging @ file:///C:/b/abs_cc1h2xfosn/croot/packaging_1710807447479/work
+pandas==2.2.2
+pillow @ file:///C:/b/abs_95ls_qh4c2/croot/pillow_1714398870615/work
+pkginfo==1.10.0
+protobuf==4.25.3
+psutil==5.9.8
+py-cpuinfo==9.0.0
+Pygments==2.18.0
+pyparsing==3.1.2
+pyproject_hooks==1.1.0
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.9.0.post0
+pytz==2024.1
+pywin32-ctypes==0.2.2
+PyYAML==6.0.1
+readme_renderer==43.0
+requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
+requests-toolbelt==1.0.0
+rfc3986==2.0.0
+rich==13.7.1
+scikit-learn @ file:///C:/b/abs_d6_krvz8aa/croot/scikit-learn_1714164798159/work
+scipy==1.10.1
+seaborn==0.13.2
+sentry-sdk==2.2.1
+six==1.16.0
+sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+tabulate==0.9.0
+tbb==2021.12.0
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+thop==0.1.1.post2209072238
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tomli==2.0.1
+torch==2.0.0
+torchaudio==2.0.0
+torchvision==0.15.0
+tqdm==4.66.4
+twine==5.1.0
+typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+tzdata==2024.1
+ultralytics==8.0.100
+ultralytics-yolo==0.0.1
+urllib3 @ file:///C:/b/abs_8e4z8_gh1l/croot/urllib3_1715636317140/work
+Werkzeug==3.0.3
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wrapt==1.16.0
+yacs==0.1.8
+zipp==3.18.2
